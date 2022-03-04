@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-to-do/static/js/main.9ffab138.js",
+    "index.html": "/react-to-do/index.html",
+    "main.9ffab138.js.map": "/react-to-do/static/js/main.9ffab138.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9ffab138.js"
+  ]
+}
